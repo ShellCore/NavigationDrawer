@@ -1,4 +1,4 @@
-package mx.shellcore.android.navigationdrawer.model;
+package mx.shellcore.android.navigationdrawer.models;
 
 public class DrawerItem {
     private String name;
