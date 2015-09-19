@@ -15,7 +15,7 @@ import mx.shellcore.android.navigationdrawer.models.DrawerItem;
 
 public class DrawerListAdapter extends ArrayAdapter {
 
-    public DrawerListAdapter(Context context, List objects) {
+    public DrawerListAdapter(Context context, List<DrawerItem> objects) {
         super(context, 0, objects);
     }
 
